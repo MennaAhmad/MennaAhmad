@@ -1,8 +1,7 @@
-![MasterHead](https://cdn.dribbble.com/users/8619169/screenshots/16116886/media/a63d64bcccad878cb9dfdb9a9f6b6416.gif)
+![MasterHead](https://images.squarespace-cdn.com/content/v1/64c70499721ff3366b73f523/2d27aabb-b7ce-44db-884e-a4303fc5bb37/Data+Science+%281%29.gif)
 <h1 align="center">Hello , I'm Menna </h1>
 <h3 align="center">AI Engineer | Data Scientist</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ee/ed/e2/eeede229147eb053fe863ef1cc7faf0b.gif" />
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=MennaAhmad&label=Profile%20views&color=0e75b6&style=flat" alt="Menna Ahmad" /> 
