@@ -11,7 +11,7 @@
 ---
 
 ### 👨‍💻 About Me:
-- 📋 **Resume**: Check out My Resume [**here**](https://docs.google.com/document/d/1_1tkH33oggXdtNtLS1ek_hHgC8YEHGkb/edit?usp=sharing&ouid=114996828737559694387&rtpof=true&sd=true)  
+- 📋 **Resume**: Check out My Resume [**here**]([https://docs.google.com/document/d/1_1tkH33oggXdtNtLS1ek_hHgC8YEHGkb/edit?usp=sharing&ouid=114996828737559694387&rtpof=true&sd=true](https://docs.google.com/document/d/1sWEDnKEpbR7KcgBIKywm7v9jzdxytcj84D_JFVMkZR0/edit?usp=sharing))  
 - 💬 **Ask me about**: Machine Learning, Deep Learning, Data Science, AI-driven Projects  
 - 📫 **Reach me at**: [Mennaahmad711@gmail.com](mailto:Mennaahmad711@gmail.com) | **+20 1122803789**  
 - ⚡ **Fun fact**: I'm passionate about creating AI solutions for real-world problems!  
