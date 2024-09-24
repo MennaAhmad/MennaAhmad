@@ -1,4 +1,3 @@
-![MasterHead](https://images.squarespace-cdn.com/content/v1/64c70499721ff3366b73f523/2d27aabb-b7ce-44db-884e-a4303fc5bb37/Data+Science+%281%29.gif)
 <h1 align="center">Hello , I'm Menna </h1>
 <h3 align="center">AI Engineer | Data Scientist</h3>
 
@@ -129,8 +128,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
-### 🧰 Productivity Tools
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+
 
 
 
