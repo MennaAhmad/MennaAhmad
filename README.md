@@ -26,76 +26,7 @@
   </a>
 </p>
 
----
 
-### 🎓 Education
-
----
-
-#### 🏫 **Bachelor's Degree in Computer Science and Artificial Intelligence**
-
-- ![University Badge](https://img.shields.io/badge/Benha_University-0055A4?style=flat&logo=university&logoColor=white)
-- ![Duration Badge](https://img.shields.io/badge/Duration-October%202020%20–%20July%202024-yellow)
-
----
-
-<br>
-
-# 💼 Experience
-
----
-
-## 🧑‍💻 AI Trainee  
-**NTI - 4 Months Program**  
-**July 2024 - August 2024**  
-
-**Key Responsibilities:**
-- Engaged in AI projects focusing on machine learning for data analysis.
-- Applied advanced algorithms in real-world projects.
-
-[![Machine Learning](https://img.shields.io/badge/Machine_Learning-FFD700?style=for-the-badge)](https://en.wikipedia.org/wiki/Machine_learning)
-
----
-
-## 🖥️ Bank Customer Segmentation  
-**August 2024**  
-
-- Applied **K-means clustering** to categorize customers into three budget-based segments.  
-- Used **Random Forest** for classification to analyze customer behavior.  
-- Developed an interactive dashboard using **Power BI** and deployed the project with **Gradio**.
-
-[![Customer Segmentation](https://img.shields.io/badge/Customer_Segmentation-4CAF50?style=for-the-badge)](https://github.com/MennaAhmad)
-
----
-
-## 📊 Children Anemia Prediction  
-**August 2024**  
-
-- Analyzed medical data to predict anemia in children.
-- Applied **machine learning** techniques to support early diagnosis and improve healthcare outcomes.
-
----
-
-## 🖥️ Handwritten Digits Recognition  
-**May 2023**  
-
-- Implemented a **CNN** for recognizing handwritten digits, trained on a dataset of digit images.
-- Leveraged transfer learning models: **VGG16**, **MobileNetV2**, **Dense121**, **ResNet50**, and **Xception**.
-
-[![Handwritten Digits](https://img.shields.io/badge/Handwritten_Digits-CNN_Architecture-blue)](https://github.com/MennaAhmad)
-
----
-
-## 🏙️ Smart City Project (Graduation Project)  
-**June 2024**  
-**A+ Grade**  
-
-- Developed an AI-powered **Smart City** system to optimize urban management and services.
-- Implemented machine learning algorithms for real-time data analysis to enhance city operations.
-
-[![Smart City](https://img.shields.io/badge/Smart_City-A%2B_Grade-blue)](https://github.com/MennaAhmad)
-
----
 
 <br>
 ## 🛠️ Technical Skills
