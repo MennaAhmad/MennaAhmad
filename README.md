@@ -29,6 +29,7 @@
 
 
 <br>
+
 ### 🛠️ Technical Skills
 
 ### 🖥️ Programming Languages
