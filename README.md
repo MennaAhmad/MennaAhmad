@@ -8,10 +8,8 @@
 
 ---
 
-### 👨‍💻 About Me:
-- 📋 **Resume**: Check out My Resume [**here**](https://docs.google.com/document/d/1sWEDnKEpbR7KcgBIKywm7v9jzdxytcj84D_JFVMkZR0/edit)  
-- 💬 **Ask me about**: Machine Learning, Deep Learning, Data Science, AI-driven Projects  
-- 📫 **Reach me at**: [Mennaahmad711@gmail.com](mailto:Mennaahmad711@gmail.com) | **+20 1122803789**  
+**Check out My Resume** [**here**](https://docs.google.com/document/d/1sWEDnKEpbR7KcgBIKywm7v9jzdxytcj84D_JFVMkZR0/edit)  
+
 
 
 ---
@@ -21,9 +19,7 @@
   <a href="https://linkedin.com/in/menna-ahmad-83767b227" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Menna Ahmad" height="40" width="40" />
   </a>
-  <a href="https://github.com/MennaAhmad" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub - Menna Ahmad" height="40" width="40" />
-  </a>
+
 </p>
 
 
