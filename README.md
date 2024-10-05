@@ -9,7 +9,7 @@
 ---
 
 ### 👨‍💻 About Me:
-- 📋 **Resume**: Check out My Resume [**here**]((https://docs.google.com/document/d/1sWEDnKEpbR7KcgBIKywm7v9jzdxytcj84D_JFVMkZR0/edit?usp=sharing))  
+- 📋 **Resume**: Check out My Resume [**here**](https://docs.google.com/document/d/1sWEDnKEpbR7KcgBIKywm7v9jzdxytcj84D_JFVMkZR0/edit)  
 - 💬 **Ask me about**: Machine Learning, Deep Learning, Data Science, AI-driven Projects  
 - 📫 **Reach me at**: [Mennaahmad711@gmail.com](mailto:Mennaahmad711@gmail.com) | **+20 1122803789**  
 
